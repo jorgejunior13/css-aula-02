@@ -1,0 +1,12 @@
+ * {
+    color: purple;
+} 
+
+p, h1, ul{
+
+    font-size: 90px;
+}
+
+#corpo{
+    text-align: center;
+}

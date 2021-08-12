@@ -1,0 +1,11 @@
+p::first-letter{
+    color: blueviolet;
+    font-size: 70px;
+    
+}a:visited{
+    color: brown;
+}a:active{
+    color: blue;
+}a:hover{
+    color: yellow;
+}
